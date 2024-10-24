@@ -39,6 +39,6 @@ public class NewStDTO {
 	}
 
 	public String toString() {
-		return "id=" + id + ", name=" + name + ", age=" + age + "]";
+		return id + "\t" + name + "\t" + age;
 	}	
 }
